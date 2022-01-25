@@ -5,9 +5,9 @@
 
 <div style="display: inline_block"><br>
     <a href="https://github.com/agotsilv">
-  <img align="center" alt="Rafa-Js" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Rafa-Js" height="40" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
          <a href="https://github.com/agotsilv">
-  <img align="center" alt="Rafa-Js" height="30" width="40" img src=<img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>>
+  <img align="center" alt="Rafa-Js" height="40" width="40" <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
 </div>
 
 
