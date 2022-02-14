@@ -3,7 +3,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Tiago Oliveira</h1>
 
 - 🔥 Front-end developer 
-- 📚 Instituto Federal de Goiás | 3° Semestre
+- 📚 Sistema de Informação | Instituto Federal de Goiás 
 - 🏙️ Luziânia - Goiás
 - 👨‍💻 Developer Back-end PontoPlus 
 <br>
