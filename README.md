@@ -4,7 +4,8 @@
 
 - 🔥 Front-end developer 
 - 📚 Instituto Federal de Goiás | 3° Semestre
--  🏙️ Luziânia - Goiás
+- 🏙️ Luziânia - Goiás
+- 👨‍💻 Developer Back-end PontoPlus 
 <br>
 
 ## 🛠 &nbsp;Skills
