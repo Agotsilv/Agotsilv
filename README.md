@@ -6,7 +6,7 @@
 - 📚 Sistema de Informação | Instituto Federal de Goiás 
 - 🏙️ Luziânia - Goiás
 
-<br> _ _
+<br> 
 
 ## 🛠 &nbsp;Skills
 
