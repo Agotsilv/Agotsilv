@@ -7,7 +7,12 @@
 - 🏙️ Luziânia - Goiás
 
 <br> 
-
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
 ## 🛠 &nbsp;Skills
 
 <div style="display: inline_block"><br>
