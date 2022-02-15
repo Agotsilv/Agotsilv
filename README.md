@@ -5,8 +5,8 @@
 - 🔥 Front-end developer 
 - 📚 Sistema de Informação | Instituto Federal de Goiás 
 - 🏙️ Luziânia - Goiás
-- 👨‍💻 Developer Back-end PontoPlus 
-<br>
+
+<br> _ _
 
 ## 🛠 &nbsp;Skills
 
