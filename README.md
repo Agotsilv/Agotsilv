@@ -1,5 +1,4 @@
 
-<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/Agotsilv/fd1a077ea08372c33cdb0b00fff426fa/raw/4955d310ba9fa597381dfdf14a04be1f375f82bd/foto.svg" width="300px">
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Tiago Oliveira</h1>
 
 - 🔥 Front-end developer 
