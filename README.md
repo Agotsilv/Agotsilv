@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="50" width="50">
 
 - 🔥 Front-end developer 
 - 📚 Sistema de Informação | Instituto Federal de Goiás 
