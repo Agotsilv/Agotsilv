@@ -1,9 +1,9 @@
+<img align="right" src="https://github.com/josepholiveira/josepholiveira/blob/master/images/illustration.png" width="300"/>
 
-<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="50" width="50">
+### Hello, I'm Tiago 👋
 
-- 🔥 Front-end developer 
+- 🔥 Front-end developer | Mobile Developer
 - 📚 Sistema de Informação | Instituto Federal de Goiás 
-- 🏙️ Luziânia - Goiás
 
 <br> 
 
@@ -24,17 +24,7 @@
   
 </div>
 
+## &nbsp;Social Links
 
+[![Linkedin Badge](https://img.shields.io/badge/-Tiago%20Oliveira-3333cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agotsilva/)](https://www.linkedin.com/in/agotsilva/)
 
-## 👨🏽‍🦲 &nbsp;Social Links
-
-<p align="left" style="background:yellow">
-<a href="https://www.linkedin.com/in/agotsilva/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-agotsilva-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/ago.tsilv" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-ago.tsilv-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-</p>
-
-<img width="1000em" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true" />
