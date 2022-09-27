@@ -1,6 +1,6 @@
 <img align="right" src="https://github.com/josepholiveira/josepholiveira/blob/master/images/illustration.png" width="300"/>
 
-### Hello, I'm Tiago 👋
+### Hello, I'm Tiago <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 - 🔥 Front-end developer | Mobile Developer
 - 📚 Sistema de Informação | Instituto Federal de Goiás 
