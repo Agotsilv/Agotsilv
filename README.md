@@ -2,7 +2,7 @@
 
 ### Hello, I'm Tiago <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
-- 🔥 Developer React Native 
+- 🔥 React Native Developer 
 - 📚 Sistema de Informação
 <br> 
 
