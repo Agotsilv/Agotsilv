@@ -6,5 +6,5 @@ Sou um Desenvolvedor Mobile especializado na criação de **aplicativos para And
 
 #### Contato
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/orodrigogo/)](https://www.linkedin.com/in/agotsilva/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agotsilva/)](https://www.linkedin.com/in/agotsilva/) 
 [![Gmail Badge](https://img.shields.io/badge/-ago.tsilva@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ago.tsilva@gmail.com)](mailto:ago.tsilva@gmail.com)
